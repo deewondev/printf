@@ -2,7 +2,7 @@
 
 This printf project is a collaboration between Dayo Oyeleke and God'spower Nwankwo, ALX Software Engineering students
 &nbsp;
-&nbsp;  
+&nbsp;
 
 ----------
 
