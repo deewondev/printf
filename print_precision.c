@@ -27,7 +27,7 @@ int print_precision(const char *format, int *i, va_list list)
 		}
 		else if (format[index] == '*')
 		{
-			index_i++;
+			index++;
 			precision = va_arg(list, int);
 			break;
 		}
